@@ -33,12 +33,6 @@
       "prettier --write"
     ]
   },
-  "prettier": {
-    "printWidth": 80,
-    "semi": true,
-    "singleQuote": true,
-    "trailingComma": "es5"
-  },
   "name": "use-element-resize-observer",
   "author": "Josh Reynolds",
   "module": "dist/use-element-resize-observer.esm.js",
@@ -67,5 +61,6 @@
     "element-resize",
     "react-resize-observer",
     "use-resize-observer"
-  ]
+  ],
+  "dependencies": {}
 }
